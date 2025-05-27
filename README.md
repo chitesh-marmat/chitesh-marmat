@@ -24,11 +24,17 @@ This README outlines my GitHub profile details. Use HTML comments to embed notes
 
 ## 🛠️ Technologies & Tools
 
-| Language       | Libraries & Frameworks     | Tools & Platforms       |
-| -------------- | -------------------------- | ----------------------- |
-| Python         | TensorFlow, Scikit-learn   | Git, GitHub, VS Code    |
-| C++            | PyTorch                    | Google Colab, Jupyter   |
-| MATLAB         | NumPy, pandas              | Overleaf, LaTeX         |
+### Languages
+- **Python**, **C++**, **MATLAB**
+
+### Machine Learning & Data Science
+- **TensorFlow**, **PyTorch**, **Scikit-learn**, **NumPy**, **pandas**
+
+### Development Tools
+- **Git**, **GitHub**, **VS Code**, **Jupyter Notebook**, **Google Colab**
+
+### Document & Report Writing
+- **LaTeX**, **Overleaf**
 
 ---
 
